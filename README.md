@@ -9,8 +9,9 @@ FJSP (Flexible Shop Scheduling Problem) is a classical scheduling problem with s
 
 ## Directory Structure
 
+- `results/`: Results of AWLS on 313 instances (with a time limit of 1 hour) 
 - `solutions/`: Solution files (new world-records) for 8 challenging instances
 - `Gantt_charts/`: Gantt chart (new world-records) for 8 challenging instances
-- `results/`: Results of AWLS on 313 instances (with a time limit of 1 hour) 
+
 
 
